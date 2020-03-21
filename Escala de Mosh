@@ -1,3 +1,68 @@
+<!DOCTYPE html> 
 <html>
    <head>
-      <title: Escala de Mosh
+     <title>Escala de Mosh</title>
+     <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+     <p1>1 Talco    </p1><img src="talco.jpg" width="100" height="50">
+     <p2>2 Yeso     </p2><img src="yeso.jpg" width="100" height="50">
+     <p3>3 Calsita  </p3><img src="calsita.jpg" width="100" height="50">
+     <p4>4 Fluorita </p4><img src="fluorita.jpg" width="100" height="50">
+     <p5>5 Apatito  </p5><img src="apatito.jpg" width="100" height="50">
+     <p6>6 Ortosa   </p6><img src="ortosa.jpg" width="100" height="50">
+     <p7>7 Cuarzo   </p7><img src="cuarzo.jpg" width="100" height="50">
+     <p8>8 Topacio  </p8><img src="topacio.jpg" width="100" height="50">
+     <p9>9 Corindon </p9><img src="corindon.jpg" width="100" height="50">
+     <p10>10 Diamante</p10><img src="diamante.jpg" width="100" height="50">
+   </body>
+</html>
+
+..................................
+
+p1 {
+    background-color: white;
+    color: black;
+}
+p2 {
+    background-color: rgb(200, 200, 200);
+    color: black;
+}
+p3 {
+    background-color: rgb(175, 175, 175);
+    color: black;
+}
+p4 {
+    background-color: rgb(150, 150, 150);
+    color: black;
+}
+p5 {
+    background-color: rgb(125, 125, 125);
+    color: black;
+}
+p6 {
+    background-color: rgb(100, 100, 100);
+    color: black;
+}
+p7 {
+    background-color: rgb(75, 75, 75);
+    color: white;
+}
+p8 {
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+p9 {
+    background-color: rgb(25, 25, 25);
+    color: white;
+}
+p10 {
+    background-color: black;
+    color: white;
+}
+img {
+   border:1px solid black;
+}
+body {
+      font: normal small-caps normal 16px/1.4 monospace;
+} 
